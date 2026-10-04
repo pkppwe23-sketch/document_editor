@@ -1,0 +1,19 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+*.app
+
+# Debug and symbols
+*.pdb
+*.ilk
+
+# Generated document output
+document.txt
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.swp
+*~
